@@ -1,0 +1,16 @@
+[{ "sno":1,
+    "book name":"Tamil",
+    "price":2000 },
+
+    { "sno":2,
+      "book name":"English",
+      "price":4000 },
+
+    { "sno":3,
+      "book name":"Maths",
+      "price":6000 },
+
+    { "sno":4,
+      "book name":"Science",
+      "price":8000 }
+]
